@@ -5,8 +5,8 @@ How to use?
 
 In matlab, type the following commands:
 
-$\>$ ex1
+\> ex1
 
-$\>$ ex2
+\> ex2
 
-$\>$ serialTest5
+\> serialTest5
